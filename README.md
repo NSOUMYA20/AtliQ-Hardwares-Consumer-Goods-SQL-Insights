@@ -24,5 +24,7 @@ This project demonstrates:
 
 ## About
 N. Soumya
+<br>
 Passionate About Turning Data Into Insights
+<br>
 Skills: SQL, Python, Excel, Power BI
