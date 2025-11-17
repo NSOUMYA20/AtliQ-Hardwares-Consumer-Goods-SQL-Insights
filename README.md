@@ -8,19 +8,13 @@ This project demonstrates:
 - Solving business questions using SQL  
 - Analyzing product growth, sales performance, customer discounts, channel contribution, and manufacturing cost variations   
 - Converting SQL outputs into clear insights for management  
-- Presenting findings in a structured and professional presentation  
-
+- Presenting findings in a structured and professional presentation
+  
 ## Repository Structure
 📂 Dataset – AtliQ Hardware SQL database  
 📂 SQL_Queries – 10 SQL files for each business request  
 📂 Presentation_PDF – Final management-level insight presentation  
 📂 Resources – Metadata and ad-hoc request descriptions  
-
-## What’s Included
-- SQL queries for all 10 ad-hoc requests  
-- Complete dataset used for the analysis  
-- A final PPT summarizing insights, trends, and key findings  
-- Original problem statement and metadata for reference  
 
 ## How to Use This Repository
 1. Import the SQL file from the Dataset folder  
@@ -30,5 +24,5 @@ This project demonstrates:
 
 ## About
 N. Soumya
-Aspiring Data Analyst  
-Skills: SQL • Power BI • Excel • Python 
+Passionate About Turning Data Into Insights
+Skills: SQL, Python, Excel, Power BI
